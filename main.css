@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    background-color: #333;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(296951.jpg);
+    background-size: cover;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 5%;
+}
+
+p {
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+fieldset {
+    background-color: silver;
+}
